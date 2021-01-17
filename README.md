@@ -14,13 +14,21 @@ Disclaimer: this is just a small project for fun and learning purposes. More eff
 [Here is a video Demo](https://onedrive.live.com/embed?cid=57D2E023F588C7E3&resid=57D2E023F588C7E3%2114185&authkey=ABsZ4sefvj8bH58)
 
 ## Some screenshots
-<img src="imgs/Stake_Eth_UI.png" height="300px">
+<table><tr><td>
+<img src="imgs/Stake_Eth_UI.png">
+</table></tr></td>
 <br>
-<img src="imgs/Stake_Eth_transaction.png" height="300px">
+<table><tr><td>
+<img src="imgs/Stake_Eth_transaction.png">
+</table></tr></td>
 <br>
-<img src="imgs/Stake_Eth_Retribution.png" height="300px">
+<table><tr><td>
+<img src="imgs/Stake_Eth_Retribution.png">
+</table></tr></td>
 <br>
-<img src="imgs/Stake_Eth_Resolve.png" height="300px">
+<table><tr><td>
+<img src="imgs/Stake_Eth_Resolve.png">
+</table></tr></td>
 
 ## Run it on your machine
 
