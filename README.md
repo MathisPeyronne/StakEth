@@ -22,7 +22,7 @@ Disclaimer: this is just a small project for fun and learning purposes. More eff
 <br>
 <img src="imgs/Stake_Eth_Resolve.png" height="300px">
 
-##Run it on your machine
+## Run it on your machine
 
 Install all the node packages:
 ```Bash
